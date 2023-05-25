@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Fast_Poster.arreferenceimage"
+    },
+    {
+      "filename" : "Flash_Poster.arreferenceimage"
+    },
+    {
+      "filename" : "GOTG_Poster.arreferenceimage"
+    },
+    {
+      "filename" : "Mario_Poster.arreferenceimage"
+    },
+    {
+      "filename" : "SpiderVerse_Poster.arreferenceimage"
+    }
+  ]
+}
